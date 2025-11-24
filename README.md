@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Bienvenido a mi GitHub
 
-<!--
-**RaulOrtizFernandez/RaulOrtizFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy estudiante del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIX)**. Este ciclo está enfocado en aprender a instalar, configurar y mantener sistemas informáticos y redes, además de gestionar servicios y garantizar la seguridad de los datos y las comunicaciones.
 
-Here are some ideas to get you started:
+### 🖥️ ¿Qué es ASIX?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Formación práctica en administración de sistemas y redes
+- Aprendizaje de herramientas y tecnologías esenciales para entornos empresariales
+- Enfoque en la seguridad informática y la gestión eficiente de recursos
+- Preparación para el mundo laboral con conocimientos técnicos actualizados
+
+Aquí comparto mis proyectos, prácticas y todo lo que voy aprendiendo a lo largo de mi formación en ASIX.
+
+---
+
+📫 **Contacto**: [GitHub](https://github.com/RaulOrtizFernandez)
