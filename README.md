@@ -14,5 +14,5 @@ Aquí comparto mis proyectos, prácticas y todo lo que voy aprendiendo a lo larg
 ---
 
 📫 **Contacto**: [GitHub](https://github.com/RaulOrtizFernandez)
-🏗️ **Proyecto**: [GitHub](https://github.com/wixrpj/InfoSingh)
-📝 **Cv Dinamico**: [GitHub](https://github.com/wixrpj/InfoSingh)
+🏗️ **Proyecto**: [Proyecto Grado](https://github.com/wixrpj/InfoSingh)
+📝 **Cv Dinamico**: [CV](https://raulortizfernandez.github.io/raul-cv-terminal/)
